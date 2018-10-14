@@ -1,0 +1,1 @@
+A simple java project, used spark local mode.
